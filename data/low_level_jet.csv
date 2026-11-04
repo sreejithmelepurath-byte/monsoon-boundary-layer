@@ -1,0 +1,5 @@
+station,phase,core_speed_kt,core_height_note
+Trivandrum,active,38,~1.2 km
+Trivandrum,weak,25,elevated (>1.5 km)
+Mangalore,active,38,~2 km
+Mangalore,weak,20,elevated (>2 km)
